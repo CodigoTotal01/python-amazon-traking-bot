@@ -1,0 +1,1 @@
+Program in charge of filtering the price of an Amazon product and sending it to our email if the product has the discount price we want
